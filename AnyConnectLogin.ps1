@@ -1,4 +1,4 @@
-Import-Module .\UIAutomation.0.8.7B3.NET35\UIAutomation.dll
+Import-Module .\UIAutomation\UIAutomation.dll
 
 [UIAutomation.Preferences]::Highlight = $false
 

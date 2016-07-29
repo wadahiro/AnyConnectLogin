@@ -1,6 +1,8 @@
 # AnyConnectLogin
 
 - [About](#about)
+- [Settings](#settings)
+- [Run](#run)
 - [License](#license)
 
 ## About
@@ -23,7 +25,9 @@ PASSWORD=<your password>
 
 ## Run
 
-Run `AnyConnectLogin.vbs`. That's all! If the AnyConnect window is popuped, this tool will login automatically.
+Run `AnyConnectLogin.vbs` by manual or Windows Startup. That's all!
+This tool is a resident program with `powershell.exe` process.
+If the AnyConnect window is popuped, this tool will login automatically.
 
 
 ## License
